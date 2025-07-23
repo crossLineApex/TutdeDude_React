@@ -1,4 +1,4 @@
-# Assignment-2: Counter Application (React)
+# Assignment-1: Counter Application (React)
 
 ### 🚀 Objective
 This assignment showcases the implementation of a **Counter Application** using **both Class and Functional Components** in React. It's designed not just to fulfill basic requirements, but to **demonstrate foundational React concepts** with best practices and responsive UI design.
