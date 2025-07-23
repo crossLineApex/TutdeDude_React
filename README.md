@@ -8,7 +8,7 @@ This is part of TuteDude React Js course Assingment 1
 
 ## 📌 Features & Learning Goals
 
-- ✅ **Main Heading**: Clearly displays `Assignment-2 Counter Application`
+- ✅ **Main Heading**: Clearly displays `Assignment-1 Counter Application`
 - ✅ **Reusable Components**: Built with both Class and Functional components
 - ✅ **State Management**: Each component handles its own state for increment/decrement logic
 - ✅ **Responsive Layout**: Components are arranged in a responsive flex row that stacks on smaller screens
