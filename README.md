@@ -47,6 +47,8 @@ While this may seem like a simple counter app at first glance, it's more than th
 
 https://codesandbox.io/p/sandbox/elegant-nobel-cl4hjd
 
+**Netlify** https://counterdemoapp.netlify.app/
+
 _Responsive layout with both counter components side-by-side on larger screens, stacked on smaller ones._
 
 ---
