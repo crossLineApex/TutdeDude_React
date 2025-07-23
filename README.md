@@ -45,6 +45,9 @@ While this may seem like a simple counter app at first glance, it's more than th
 
 ## 📸 Preview
 
+<img width="1858" height="1130" alt="Screenshot from 2025-07-23 22-25-22" src="https://github.com/user-attachments/assets/68cf8bed-cf18-4e75-8445-1958e390b38d" />
+
+
 https://codesandbox.io/p/sandbox/elegant-nobel-cl4hjd
 
 **Netlify** https://counterdemoapp.netlify.app/
